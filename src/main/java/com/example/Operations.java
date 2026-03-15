@@ -1,4 +1,4 @@
-//Operations class for basic arithmetic operations
+// Operations class for basic arithmetic operations
 
 package com.example;
 
@@ -35,7 +35,7 @@ public class Operations {
     }
 
     public double divide(double a, double b) {
-        if (b == 0) {
+        if (b == 0.0) {
             throw new IllegalArgumentException("Division by zero is not allowed");
         }
         return a / b;
