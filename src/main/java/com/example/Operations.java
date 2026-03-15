@@ -1,3 +1,5 @@
+//Operations class for basic arithmetic operations
+
 package com.example;
 
 public class Operations {
