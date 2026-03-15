@@ -1,6 +1,3 @@
-// This is the Maven project configuration file (pom.xml) for the Calculator application. It defines the project structure, dependencies, and build settings.
-
-
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
