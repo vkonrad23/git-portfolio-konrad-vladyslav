@@ -1,3 +1,6 @@
+// .gitignore file for Java project
+
+
 target/
 build/
 .gradle/
