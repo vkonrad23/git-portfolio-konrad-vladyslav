@@ -1,3 +1,5 @@
+// This file is part of the git-portfolio-konrad-vladyslav project.
+
 package com.example;
 
 public class Calculator {
