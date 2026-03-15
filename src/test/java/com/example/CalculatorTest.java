@@ -1,9 +1,8 @@
-//This file contains unit tests for the Calculator class using JUnit 5
+// This file contains unit tests for the Calculator class using JUnit 5
 
 package com.example;
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
