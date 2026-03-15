@@ -1,3 +1,5 @@
+//Main class for console-based calculator application
+
 package com.example;
 
 import java.util.ArrayList;
